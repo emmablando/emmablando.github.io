@@ -18,14 +18,14 @@ email: emma.blando@warriorlife.net
 description: >- # this means to ignore newlines until "baseurl:"
   description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+url: "https://emmablando.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: emmablando
+timezone: America/Los Angeles
 disqus:
- shortname:emmab-jekyll-site
+ shortname: emmab-jekyll-site
  
- timezone: America/Los Angeles
- 
-github_username:  emmablando
+
+
 # Build settings
 markdown: kramdown
 theme: minima
