@@ -22,7 +22,7 @@ url: "https://emmablando.github.io" # the base hostname & protocol for your site
 github_username: emmablando
 timezone: America/Los_Angeles
 disqus:
- shortname: emmab-jekyll-site
+ shortname: emma-bs-jekyll-site
  
 
 
