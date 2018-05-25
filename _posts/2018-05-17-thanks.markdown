@@ -1,0 +1,8 @@
+---
+layout: post
+title: "thank you"
+date: 2018-05-17 13:56:49 -0700
+catergories: jekyll update
+author: Emma Balog
+---
+hey emma im so thankful your in my class. thank you for being kind and nice to me this year.
